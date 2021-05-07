@@ -16,7 +16,7 @@ The syntax can be found either by simply looking at the source code and seeing i
 
 An example of it would be:
 
-```sudo python3 altsonfly.py -a 2 -p chromium```
+```sudo python3 altsonfly.py -a 3 -p chromium```
 
 
 This would create 3 unique sessions of Chromium, through adding two users and using sudo -U & -s to launch the program. It's quite simple and to the point and works,
